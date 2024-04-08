@@ -10,6 +10,5 @@
         <li><a href="bavseri.rdf">bavseri.rdf</a></li>
     
         
-    </ul>
 </body>
 </html>
