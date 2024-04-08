@@ -6,8 +6,8 @@
 <body>
     <h1>RePEc Archive</h1>
     <ul>
-        <li><a href="wpaper/bavarch.rdf">bavarch.rdf</a></li>
-        <li><a href="wpaper/bavseri.rdf">bavseri.rdf</a></li>
+        <li><a href="bavarch.rdf">bavarch.rdf</a></li>
+        <li><a href="repec/bavseri.rdf">bavseri.rdf</a></li>
         <!-- Weitere Links zu Ihren .rdf Dateien hier -->
     </ul>
 </body>
