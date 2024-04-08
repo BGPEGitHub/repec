@@ -8,7 +8,7 @@
     <ul>
         <li><a href="bavarch.rdf">bavarch.rdf</a></li>
         <li><a href="bavseri.rdf">bavseri.rdf</a></li>
-        <li><a href="wpaper"></a></li>
+    
         
     </ul>
 </body>
