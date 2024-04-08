@@ -8,7 +8,8 @@
     <ul>
         <li><a href="bavarch.rdf">bavarch.rdf</a></li>
         <li><a href="bavseri.rdf">bavseri.rdf</a></li>
-        <!-- Weitere Links zu Ihren .rdf Dateien hier -->
+        <li><a href="wpaper.rdf">wpaper.rdf</a></li>
+        
     </ul>
 </body>
 </html>
