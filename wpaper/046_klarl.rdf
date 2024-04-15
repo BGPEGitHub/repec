@@ -1,0 +1,29 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Torben Klarl
+Author-X-Name-First: Torben
+Author-X-Name-Last: Klarl
+
+Title: 	On the stability of equilibria in replicator dynamics modelling: an application in industrial dynamics considering resource constraints
+	
+Abstract: Replicator dynamic modelling (rdm) is used to discuss industrial evolution
+problems with heterogeneous agents. However, some of the models tend to be
+very complex and, therefore, analytical solutions cannot be obtained. Hence,
+the paper proposes to start with a relatively simple model and check its stability
+of the equilibria before expanding the model. This strategy is more effective
+than relying on simulation based studies where instability cannot be ruled out
+ex ante. Thus, the aim of this paper is to introduce a stability check for rdm,
+especially, if one ore more real Eigenvalues with value zero occur. Besides
+the (Strogatz, 1994) and (Hilborn, 1994) local stability theorem, this method
+provides an alternative and more flexible procedure for stability analysis for
+rdm. To apply this approach, an industrial replicator dynamic model containing
+three differential equations is set up.
+Length:  34 pages
+Creation-Date:  2008-03
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/046_On-the-stability-of-equilibria-in-replicator-dynamics-modelling-an-application-in-industrial-dynamics-considering-resource-constraints.pdf
+File-Format: Application/pdf
+File-Function: First version, 2008
+Number: 046
+Classification-JEL: B25, C62
+Keywords: Evolutionary economics, Replicator dynamics
+Handle: RePEc:bav:wpaper:046_klarl

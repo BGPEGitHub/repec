@@ -1,0 +1,31 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Steffen Mueller
+Author-X-Name-First: Steffen
+Author-X-Name-Last: Mueller
+
+Title: Capital stock approximation using firm level panel data
+	
+Abstract: Many recent studies exploring conditional factor demand or factor substitution
+issues use firm level panel data. A considerable number of establishment panels
+contains no direct information on the capital input, necessary for production or
+cost function estimation. Incorrect measurement of capital leads to biased esti-
+mates and casts doubt on any inference on output elasticities or input substitution
+properties. The perpetual inventory approach, commonly used for long panels, is
+a method that attenuates these problems. In this paper a modified perpetual in-
+ventory approach is proposed. This method provides more reliable measures for
+capital input when short firm panels are used and no direct information on capital
+input is available. The empirical results based on a replication study of Addison et
+al. (2006) support the conclusion that modified perpetual inventory is superior to
+previous attempts in particular when fixed effects estimation techniques are used.
+The method thus makes a considerable number of recently established firm pan-
+els accessible to more sophisticated production function or factor demand analyses.
+Length:  19 pages
+Creation-Date:  2008-01
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/038_Capital-stock-approximation-using-firm-level-panel-data.pdf
+File-Format: Application/pdf
+File-Function: First version, 2008
+Number: 038
+Classification-JEL: C81; D24; J23
+Keywords: production function, capital input
+Handle: RePEc:bav:wpaper:038_mueller

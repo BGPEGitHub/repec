@@ -1,0 +1,31 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Markus Reisinger
+Author-X-Name-First: Markus
+Author-X-Name-Last: Reisinger
+
+Author-Name: Ludwig Ressner
+Author-X-Name-First: Ludwig
+Author-X-Name-Last: Ressner
+
+Title: Dynamic Duopoly with Inattentive Firms
+	
+Abstract: This paper analyzes an infinite horizon dynamic duopoly with stochastic
+demand in which firms face costs of absorbing and processing information.
+Our main result is that the structure of dates at which firms
+choose to absorb information differ starkly between price and quantity
+competition. Firms synchronize their actions under price competition
+whereas they plan sequentially and in an alternating manner under
+quantity competition. The reason is that under quantity competition
+the planning firm reduces the uncertainty in the residual demand curve
+of the inattentive firm which renders planning less attractive for that
+firm. The opposite holds true under price competition.
+Length:  38 pages
+Creation-Date:  2008-06
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/058_Dynamic-Duopoly-with-Inattentive-Firms.pdf
+File-Format: Application/pdf
+File-Function: First version, 2008
+Number: 058
+Classification-JEL: C73, D43, D83
+Keywords: Inattentiveness, Price Competition, Quantity Competition, Synchronization
+Handle: RePEc:bav:wpaper:058_ressner

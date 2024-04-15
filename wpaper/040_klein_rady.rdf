@@ -1,0 +1,33 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Nicolas Klein
+Author-X-Name-First: Nicolas
+Author-X-Name-Last: Klein
+
+
+Author-Name: Sven Rady
+Author-X-Name-First: Sven
+Author-X-Name-Last: Rady
+
+
+Title: Negatively Correlated Bandits
+	
+Abstract: We analyze a two-player game of strategic experimentation with two-armed bandits.
+Each player has to decide in continuous time whether to use a safe arm with a known
+payoff or a risky arm whose likelihood of delivering payoffs is initially unknown. The
+quality of the risky arms is perfectly negatively correlated between players. In marked
+contrast to the case where both risky arms are of the same type, we find that learning
+will be complete in any Markov perfect equilibrium if the stakes exceed a certain
+threshold, and that all equilibria are in cutoff strategies. For low stakes, the equilibrium
+is unique, symmetric, and coincides with the planner’s solution. For high stakes,
+the equilibrium is unique, symmetric, and tantamount to myopic behavior. For intermediate
+stakes, there is a continuum of equilibria.
+Length:  26 pages
+Creation-Date:  2008-02
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/040_Negatively-Correlated-Bandits.pdf
+File-Format: Application/pdf
+File-Function: First version, 2008
+Number: 040
+
+
+Handle: RePEc:bav:wpaper:040_klein_rady
