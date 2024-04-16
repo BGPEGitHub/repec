@@ -1,0 +1,21 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Philipp Ehrl
+Author-X-Name-First: Philipp
+Author-X-Name-Last: Ehrl
+
+
+Title: Agglomeration economies with consistent productivity estimates
+
+	
+Abstract: This paper investigates the relative impact of microeconomic agglomeration mechanisms on plant’s total factor productivity (TFP) using German establishment and employment level data. Contrasting different strategies to estimate TFP from plant level production functions reveals that not accounting for the endogeneity of input
+choices and not separating price effects from true productivity leads to underestimated agglomeration economies. Under the preferred TFP measure, labor market pooling, captured by the correlation of the occupational composition between one county-industry and the rest of the county, is found to have the largest impact. Besides, two knowledge spillover mechanisms, transmitted via job changes and public R&D funding, positively affect plant productivity. Except for job changes the result is even robust when the spatial units are broadened from counties to labor market regions. Testing for urbanization and localization economies, I find that TFP is higher in more specialized and larger counties, whereas sectoral diversity is of no importance at the county level.
+Length:  42 pages
+Creation-Date:  2011-12
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/113_Agglomeration-economies-with-consistent-productivity-estimates.pdf
+File-Format: Application/pdf
+File-Function: First version, 2011
+Number: 113
+Classification-JEL: D24, R11, R30
+Keywords: agglomeration economies, modifiable areal unit problem , TFP estimation, price bias, localization, urbanization economies
+Handle: RePEc:bav:wpaper:113_Ehrl

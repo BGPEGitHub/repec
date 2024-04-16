@@ -1,0 +1,21 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Johannes Vilsmeier
+Author-X-Name-First: Johannes
+Author-X-Name-Last: Vilsmeier
+
+
+Title: Updating the Option Implied Probability of Default Methodology
+
+	
+Abstract: In this paper we ‘update’ the option implied probability of default (option iPoD) approach recently suggested in the literature. First, a numerically more stable objective function for the estimation of the risk neutral density is derived whose integrals can be solved analytically. Second, it is reasoned that the originally proposed approach for the estimation of the PoD has some serious drawbacks and hence an alternative procedure is suggested that is based on the Lagrange multipliers. Carrying out numerical evaluations and a practical application we find that the framework provides very promising results.
+
+Length:  26 pages
+Creation-Date:  2011-10
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/107_Updating-the-Option-Implied-Probability-of-Default-Methodology.pdf
+File-Format: Application/pdf
+File-Function: First version, 2011
+Number: 107
+Classification-JEL: C51, C52, C61, G12, G24, G32
+Keywords: Option Implied Probability of Default, Risk Neutral Density, Cross Entropy
+Handle: RePEc:bav:wpaper:107_Vilsmeier

@@ -1,0 +1,29 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Christian Korth
+Author-X-Name-First: Christian
+Author-X-Name-Last: Korth
+
+Author-Name: Stefan Napel
+Author-X-Name-First: Stefan
+Author-X-Name-Last: Napel
+
+Title: Fairness, Price Stickiness, and History Dependence in Decentralized Trade
+	
+Abstract: The paper investigates price formation in a decentralized market with random matching.
+Agents are assumed to have subdued social preferences: buyers, for example, prefer a
+lower price to a higher one but experience reduced utility increases below a reference price
+which serves as a common fairness benchmark. The strategic equilibrium reflects market
+fundamentals, but it is markedly less sensitive to the buyer-seller ratio near the fair price
+benchmark. Prices may be sticky around very dierent reference levels in markets with
+otherwise identical fundamentals. The implied history dependence turns out to be mitigated
+rather than exacerbated by friction.
+Length:  24 pages
+Creation-Date:  2009-02
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/068_Fairness-Price-Stickiness-and-History-Dependence-in-Decentralized-Trade.pdf
+File-Format: Application/pdf
+File-Function: First version, 2009
+Number: 068
+Classification-JEL: C78; D49; D63; C91
+Keywords: random matching, price stickiness, social preferences, history dependence, reference dependence
+Handle: RePEc:bav:wpaper:068_korth
