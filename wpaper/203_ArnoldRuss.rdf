@@ -1,0 +1,32 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Lutz G. Arnold
+Author-X-Name-First: Lutz G.
+Author-X-Name-Last: Arnold
+
+Author-Name: David Russ
+Author-X-Name-First: David 
+Author-X-Name-Last: Russ
+
+Title: Listening to the Noise in Financial Markets
+	
+Abstract: Do all types of information benefit the efficiency of prices in the sense that they drive them closer to fundamentals compared to the situation where information does not exist? Looking at the competitive noisy rational expectations framework, the clear answer of the literature is: yes. It suggests that rational traders use all available types of information to submit more sophisticated market orders, thereby boosting price efficiency. In this paper, however, we propose a contradiction to this traditional view.
+We show that there exist types of non-fundamental information that are detrimental
+to price eciency, as they lead traders to rationally trade with rather than against
+noise. We develop an analytically tractable framework with public non-fundamental
+information and prove that this type of information can harm price efficiency, i.e.,
+prices would be closer to fundamentals if public non-fundamental information did not
+exist.
+
+Length: 30 pages
+Creation-Date:  2020-12
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/203_Listening-to-the-Noise-in-Financial-Markets.pdf
+File-Format: Application/pdf
+File-Function: First version, 2020
+Number: 203
+Classification-JEL: C62, D53, G12, G40.
+
+Keywords: Rational Expectations Equilibrium, Market Eciency, Non-Fundamental
+Information, Destabilizing Rational Speculation.
+
+Handle: RePEc:bav:wpaper:203_ArnoldRuss

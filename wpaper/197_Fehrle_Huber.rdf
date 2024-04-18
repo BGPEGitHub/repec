@@ -1,0 +1,38 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Daniel Fehrle
+Author-X-Name-First: Daniel
+Author-X-Name-Last: Fehrle
+
+Author-Name: Johannes Huber
+Author-X-Name-First: Johannes
+Author-X-Name-Last: Huber
+
+Title:Business cycle accounting for the German fiscal stimulus program during the Great Recession
+	
+Abstract: We take the neoclassical perspective and apply the business cycle accounting method
+as proposed by Chari, Kehoe, and McGrattan (2007, Econometrica) for the Great Recession
+and the associated stimulus program in Germany 2008-2009. We include
+wedges to the variables government consumption, durables, investment, labor, net exports,
+and efficiency. The results suggest: The crisis was mainly driven by the efficiency
+wedge, followed by the net exports and the investment wedge. The government consumption
+wedge and in particular the durables wedge acted counter-cyclical. We attribute
+the latter to an internationally incomparably large cash for clunkers program
+and conclude that this subsidy on durable goods was more effective than pure government
+consumption.
+We introduce a strategy for likelihood maximization, which reliably and quickly
+locates the maximum; enables a detailed evaluation of the likelihood function and
+allows large robustness checks.
+
+
+Length: 44 pages
+Creation-Date:  2020-06
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/197_Business-cycle-accounting-for-the-German-fiscal-stimulus-program-during-the-Great-Recession.pdf
+File-Format: Application/pdf
+File-Function: First version, 2020
+Number: 197
+Classification-JEL: C32, E20, E32, H12, H31
+
+Keywords: Fiscal stimulus, Great Recession, Business cycle accounting, Maximum-Likelihood
+
+Handle: RePEc:bav:wpaper:197_FehrleHuber
