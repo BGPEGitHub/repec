@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Matthias Collischon
+Author-X-Name-First: Matthias
+Author-X-Name-Last: Collischon
+
+Title: Is there a Glass Ceiling over Germany?
+
+	
+Abstract: This paper analyzes the gender wage gap across the wage distribution using 2010 data from the German statistical agency. I investigate East and West Germany and the public sector separately to account for potential heterogeneities in wage gaps. I apply unconditional and conditional quantile regression methods to investigate the differences between highly paid men and women in distributions conditional and unconditional on covariates. The results indicate increasing gender wage gaps in all estimations, suggesting that there is indeed a glass ceiling over Germany even after controlling for a large set of observable characteristics (including occupation and industry). This finding is even more pronounced when also taking bonus payments into account.
+Length: 42 pages
+Creation-Date:  2017-11
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/175_Is-there-a-Glass-Ceiling-over-Germany.pdf
+File-Format: Application/pdf
+File-Function: First version, 2017
+Number: 175
+Classification-JEL: C21, J16, J31
+Keywords: Gender wage gap; gender pay gap; glass ceiling
+Handle: RePEc:bav:wpaper:175_Collischon

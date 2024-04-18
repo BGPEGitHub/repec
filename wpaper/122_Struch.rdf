@@ -1,0 +1,28 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Georg Struch
+Author-X-Name-First: Georg
+Author-X-Name-Last: Struch
+
+
+Title: Entwicklung des integrierten Mikrosimulationsmodells EITDsim
+	
+Abstract: Dieser Beitrag dokumentiert den Aufbau des Mikrosimulationsmodells EITDsim. EITDsim
+kann zur empirischen (ex ante) Evaluation von steuer- und finanzpolitischen Fragestellungen,
+insbesondere von (potentiellen) Steuerreformen, verwendet werden. Dafür kombiniert
+EITDsim auf Basis des erweiterten Mikrodatensatzes FAST 2004 ein statisches Steuermikrosimulationsmodell
+zur Schätzung kurzfristiger Erst-Rundeneffekte mit einem diskreten
+Arbeitsangebotsmodell zur Schätzung mittelfristiger Zweit-Rundeneffekte. Aufgrund unvollständiger Informationen in der FAST 2004 wird als Datengrundlage für das Arbeitsangebotsmodell
+in EITDsim das Sozioökonomische Panel (SOEP) des DIW verwendet. Auf
+dem Wege einer Datensatzfusion werden sodann die Informationen aus beiden Mikrodatens
+ätzen kombiniert.
+
+Length:  45 pages
+Creation-Date:  2012-08
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/122_Entwicklungdes_integriertenMikrosimulationsmodellsEITDsim.pdf
+File-Format: Application/pdf
+File-Function: First version, 2012
+Number: 122
+Classification-JEL: C51, C53, H24, J22
+Keywords: Mikrosimulation, Arbeitsangebot, Datensatzfusion
+Handle: RePEc:bav:wpaper:122_Struch

@@ -1,0 +1,29 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Philipp Matros
+Author-X-Name-First: Philipp 
+Author-X-Name-Last: Matros
+
+Author-Name: Johannes Vilsmeier
+Author-X-Name-First: Johannes 
+Author-X-Name-Last: Vilsmeier
+
+Title: Measuring Option Implied Degree of Distress in the US Financial Sector Using the Entropy Principle
+	
+Abstract: We estimate time series of option implied Probabilities of Default (PoDs) for 19 major US
+financial institutions from 2002 to 2012. These PoDs are estimated as mass points of entropy
+based risk neutral densities and subsequently corrected for maturity dependence. The ob-
+tained time series are evaluated with regard to their consistency and predictive power and
+their properties are compared to Credit Default Swap Spreads (CDS). Moreover, we also
+derive an indicator for the systemic risk in the US nancial sector. We find that the PoDs
+are superior to CDS in identifying the high risk banks prior to the Lehman crisis.
+
+Length:  46 pages
+Creation-Date:  2012-08
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/123_Measuring-Option-Implied-Degree-of-Distress-in-the-US-Financial-Sector-Using-the-Entropy-Principle.pdf
+File-Format: Application/pdf
+File-Function: First version, 2012
+Number: 123
+Classification-JEL: C14, C32, G01, G21
+Keywords: Entropy Principle, Risk Neutral Density, Probability of Default, Financial Stability Indicator, Credit Default Swaps
+Handle: RePEc:bav:wpaper:123_MatrosVilsmeier

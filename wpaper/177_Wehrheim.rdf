@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Lino Wehrheim
+Author-X-Name-First: Lino
+Author-X-Name-Last: Wehrheim
+
+Title: Economic History Goes Digital: Topic Modeling the Journal of Economic History
+
+	
+Abstract: Digitization and computer science have established a whole new set of methods to analyze large collections of texts. One of these methods is particularly promising for economic historians: topic models, statistical algorithms that automatically infer themes from large collections of texts. In this article, I present an introduction to topic modeling and give a very first review on the research using topic models. I illustrate their capacity by applying them on 2.675 articles published in the Journal of Economic History between 1941 and 2016. This contributes to traditional research on the JEH and to current research on the cliometric revolution.
+Length: 42 pages
+Creation-Date:  2017-11
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/177_Economic-History-Goes-Digital_Topic-Modeling-the-Journal-of-Economic-History.pdf
+File-Format: Application/pdf
+File-Function: First version, 2017
+Number: 177
+Classification-JEL: A12, C18, N01
+Keywords: Economic History, Topic Models, Latent Dirichlet Allocation, Cliometrics, Digitization, Methodology
+Handle: RePEc:bav:wpaper:177_Wehrheim

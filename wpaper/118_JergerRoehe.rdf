@@ -1,0 +1,24 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Jürgen Jerger
+Author-X-Name-First: Jürgen 
+Author-X-Name-Last: Jerger
+
+Author-Name: Oke Röhe
+Author-X-Name-First: Oke 
+Author-X-Name-Last: Röhe
+
+Title: Testing for Parameter Stability in DSGE Models. The Cases of France, Germany, Italy, and Spain
+	
+Abstract: We estimate a New Keynesian DSGE model on French, German, Italian, and Spanish data. The main aim of this paper is to check for the respective sets of parameters that are stable over time, making use of the ESS procedure (”Estimate of Set of Stable parameters“) developed by Inoue and Rossi (2011). This new econometric technique allows to address the stability properties of each single parameter in a DSGE model separately. In the case of France, Germany, and Italy our results point to structural breaks after the beginning of the second stage of EMU in the mid-nineties, while the
+estimates for Spain show a significant break just before the start of the third stage in 1998. Specifically, there are significant changes in monetary policy behavior for France, Italy, and Spain, while monetary policy in Germany seems to be stable over time.
+
+Length:  30 pages
+Creation-Date:  2012-04
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/118_Testing-for-Parameter-Stability-in-DSGE-ModelsThe-Cases-of-FranceGermanyItalySpain.pdf
+File-Format: Application/pdf
+File-Function: First version, 2012
+Number: 118
+Classification-JEL: E31, E32, E52
+Keywords: DSGE, EMU, Monetary Policy, Structural Breaks
+Handle: RePEc:bav:wpaper:118_JergerRoehe

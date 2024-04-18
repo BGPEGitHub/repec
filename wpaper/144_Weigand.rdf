@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Roland Weigand
+Author-X-Name-First: Roland 
+Author-X-Name-Last: Weigand
+
+Title: Matrix Box-Cox Models for Multivariate Realized Volatility
+
+	
+Abstract: We propose exible models for multivariate realized volatility dynamics which involve generalizations of the Box-Cox transform to the matrix case. The matrix Box-Cox model of realized covariances (MBC-RCov) is based on transformations of the covariance matrix eigenvalues, while for the Box-Cox dynamic correlation (BC-DC) specification the variances are transformed individually and modeled jointly with the correlations. We estimate transformation parameters by a new multivariate semiparametric estimator and discuss bias-corrected point and density forecasting by simulation. The methods are applied to stock market data where excellent in-sample and out-of-sample performance is found.
+Length:  40 pages
+Creation-Date:  2014-03
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/144_Matrix-Box-Cox-Models-for-Multivariate-Realized-Volatility.pdf
+File-Format: Application/pdf
+File-Function: First version, 2014
+Number: 144
+Classification-JEL: C14, C32, C51, C53, C58
+Keywords: realized covariance matrix, dynamic correlation, semiparametric estimation, density forecasting
+Handle: RePEc:bav:wpaper:144_Weigand

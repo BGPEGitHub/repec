@@ -1,0 +1,25 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Stefan Napel
+Author-X-Name-First: Stefan
+Author-X-Name-Last: Napel
+
+Author-Name: Dominik Welter
+Author-X-Name-First: Dominik 
+Author-X-Name-Last: Welter
+
+
+Title: Responsibility-based allocation of cartel damages
+
+	
+Abstract: Anti-trust infringers are liable jointly and severally, i.e., any offender may be sued and forced to compensate a victim on behalf of all. EU law then grants the singled-out firm a right to internal redress: all infringers are obliged to contribute in proportion to their relative responsibility for the victim’s harm. We operationalize this for hardcore cartels. Responsibility is inferred from how much lower damages could have been, had one or more offenders refused to collaborate. This calls for applying the Shapley value to a model of overcharges. Resulting allocations are characterized for selected market environments and compared to ad hoc distributions based on market shares or profits. A new decomposition of the Shapley value helps to establish bounds on payment obligations.
+Length: 41 pages
+Creation-Date:  2017-08
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/171_Responsibility-based-allocation-of-cartel-damages.pdf
+File-Format: Application/pdf
+File-Function: First version, 2017
+Number: 171
+Classification-JEL: L40, L13, D04, D43
+Keywords: cartel damages, damage allocation, Shapley value, joint liability, relative responsibility, rule of contribution
+Handle: RePEc:bav:wpaper:171_NapelWelter
+

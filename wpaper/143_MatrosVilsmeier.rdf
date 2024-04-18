@@ -1,0 +1,33 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Philipp Matros
+Author-X-Name-First: Philipp 
+Author-X-Name-Last: Matros
+
+Author-Name: Johannes Vilsmeier
+Author-X-Name-First: Johannes 
+Author-X-Name-Last: Vilsmeier
+
+
+Title: The Multivariate Option iPoD Framework - Assessing Systemic Financial Risk
+
+Abstract: We derive multivariate risk neutral asset distributions for major US nancial institutions
+(FIs) using option implied marginal risk neutral asset distributions (RNDs) and probabili-
+ties of default (PoDs). The multivariate densities are estimated by combining the entropy
+approach, dynamic copulas and rank correlations. Our density estimates exhibit information
+about the conditional distributions of the individual FIs and we propose several nancial
+distress measures based on default scenarios taking place in the nancial sector. Empirical
+results around the period of the US sub-prime crisis show that the proposed risk measures
+in a timely manner identify i) the most troubled FIs in the system, ii) the systemically most
+important FIs, iii) the implicit bailout guarantees of some FIs and iv) a `too interconnected
+to fail' problem in the US nancial sector throughout the year 2008.
+
+Length:  41 pages
+Creation-Date:  2013-10
+File-URL: https://bgpe.cms.rrze.uni-erlangen.de/files/2023/07/143_The-Multivariate-Option-iPoD-Framework-Assessing-Systemic-Financial-Risk.pdf
+File-Format: Application/pdf
+File-Function: First version, 2013
+Number: 143
+Classification-JEL: C14, C32, G01, G21
+Keywords: Financial Distress, Conditional Probability of Default, Copulae, Option Prices, Entropy Principle
+Handle: RePEc:bav:wpaper:143_MatrosVilsmeier
