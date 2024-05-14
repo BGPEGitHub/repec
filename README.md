@@ -9,8 +9,6 @@
         <li><a href="bavarch.rdf">bavarch.rdf</a></li>
         <li><a href="bavseri.rdf">bavseri.rdf</a></li>
         <li><a href="wpaper/001_bauer.rdf">001_bauer.rdf</a></li>
-        <li><a href="wpaper/037_drometer_rinke.rdf">037_drometer_rinke.rdf</a></li>
-        <li><a href="wpaper/001_bauer.rdf">001_bauer.rdf</a></li>
         <li><a href="wpaper/002_lehner_schnitzer.rdf">002_lehner_schnitzer.rdf</a></li>
         <li><a href="wpaper/003_schmidtke.rdf">003_schmidtke.rdf</a></li>
         <li><a href="wpaper/004_schmidtke.rdf">004_schmidtke.rdf</a></li>
