@@ -1,0 +1,35 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name:  Lilia Filipova
+Author-X-Name-First: Lilia
+Author-X-Name-Last: Filipova
+
+Title: Monitoring and Privacy in Automobile Insurance Markets with Moral Hazard
+
+Abstract: This paper considers moral hazard in insurance markets when voluntary
+monitoring technologies are available and insureds may choose the precision of
+monitoring. Also privacy costs incurred thereby are taken into account. Two
+alternative contract schemes are compared in terms of welfare: (i) monitoring
+conditional on the loss with only the insurance indemnities based on the moni-
+toring data, and (ii) unrestricted monitoring with both the premiums and the
+indemnities depending on the data. With any contract scheme some monitor-
+ing will be optimal unless the privacy costs increase too fast in relation to the
+precision of the monitoring signal. In the benchmark situation (without pri-
+vacy costs) relying completely on both signals (monitoring and the outcome)
+informative of effort (ii) maximizes welfare. In the presence of privacy costs,
+the contract with conditional monitoring (i) might dominate the contract which
+fully includes the outcome and the monitoring signal into the sharing rule (ii).
+Apart from the direct effect of restricting privacy costs only to the state of loss,
+there are also an additional indirect incentive and a risk-sharing effect with
+this contract. Letting the individuals choose the precision of the monitoring
+technology at the time they reveal the data (ex post) is ine±cient with either
+contract scheme.
+Length:  39 pages
+Creation-Date:  2007-06
+File-URL: https://www.bgpe.de/files/2024/05/026_filipova.pdf
+File-Format: Application/pdf
+File-Function: First version, 2007
+Number: 026
+Classification-JEL: D82, G22
+Keywords: moral hazard, conditional monitoring, value of information, privacy
+Handle: RePEc:bav:wpaper:026_filipova
