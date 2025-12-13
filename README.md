@@ -252,5 +252,5 @@
         <li><a href="wpaper/242_Alex.rdf">242_Alex.rdf</a></li>
          <li><a href="wpaper/243_Langenmayr_Tovmasyan_Vosseler.rdf">243_Langenmayr_Tovmasyan_Vosseler.rdf</a></li>
          <li><a href="wpaper/244_Dietz_Eitel.rdf">244_Dietz_Eitel.rdf</a></li>
-    
+    <li><a href="wpaper/245_Schlömer.rdf">245_Schlömer.rdf</a></li>
 
