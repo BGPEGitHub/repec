@@ -254,3 +254,4 @@
          <li><a href="wpaper/244_Dietz_Eitel.rdf">244_Dietz_Eitel.rdf</a></li>
         <li><a href="wpaper/245_Schlömer.rdf">245_Schlömer.rdf</a></li>
         <li><a href="wpaper/246_Drescher.rdf">246_Drescher.rdf</a></li>
+        <li><a href="wpaper/247_Eitel_Schmitt.rdf">247_Eitel_Schmitt.rdf</a></li>
